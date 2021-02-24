@@ -1,0 +1,2 @@
+# shisheng.icu
+Front page.
